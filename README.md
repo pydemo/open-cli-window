@@ -7,5 +7,5 @@ c:\tmp>python open_cli.py
 
 Result:
 
-(Open CLI)
+(Open CLI)[https://github.com/alexbuz/open-cli/blob/master/open_cli.png]
 
