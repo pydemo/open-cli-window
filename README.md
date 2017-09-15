@@ -7,4 +7,4 @@ c:\tmp>python open_cli.py
 
 Result:
 
-[Open CLI](https://github.com/alexbuz/open-cli/blob/master/open_cli.png)
+![Open CLI](https://github.com/alexbuz/open-cli/blob/master/open_cli.png)
